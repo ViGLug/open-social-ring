@@ -7,4 +7,8 @@ Update your status on every social network
 
 ## Debug/develop
 
-```page.render('screenshot.png');```
+Some useful commands:
+
+    page.render('screenshot.png');
+    console.log(page.url);
+    console.log(page.title);
